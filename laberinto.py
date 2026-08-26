@@ -1,19 +1,4 @@
-"""
-MODULO: laberinto.py
 
-Este módulo tiene todas las "funciones" para trabajar con el laberinto:
-
-    1) crear_matriz_de_booleanos(...)   -> crea una matriz llena de True/False
-    2) generar_laberinto(...)           -> arma un laberinto nuevo (rompiendo paredes)
-    3) resolver_laberinto(...)          -> hace que el "ratón" recorra el laberinto solo
-
-La idea es que este archivo NO dibuja nada ni abre ninguna ventana, solo
-tiene la "lógica" del laberinto. El dibujo lo hace otro módulo aparte
-(interfaz.py), así el código queda más ordenado.
-
-Este archivo solo, por sí solo, no hace nada visible: hay que importarlo
-desde interfaz.py y ejecutar interfaz.py para ver el laberinto.
-"""
 
 import random
 
