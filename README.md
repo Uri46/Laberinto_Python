@@ -2,6 +2,12 @@
 
 Generación procedural y resolución automática de laberintos bidimensionales mediante **Búsqueda en Profundidad (DFS)** y **Backtracking**. Diseñado bajo arquitectura desacoplada para separar la lógica de matrices de la interfaz gráfica.
 
+
+
+## 📸 Capturas
+![Menú Principal](img/laberinto_menu.png)
+![Proceso del Laberinto](img/laberinto_proceso.png)
+
 ---
 
 ## 📁 Estructura del Proyecto
